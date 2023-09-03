@@ -41,7 +41,7 @@
    - Deploy the trained model in real-world applications for recognizing handwritten digits, which may involve web apps, mobile apps, or embedded systems.
 
 ### 10. Continuous Improvement:
-    - Embrace ongoing experimentation with new algorithms, architectures, and datasets to achieve better accuracy and robustness in recognizing handwritten digits.
+   - Embrace ongoing experimentation with new algorithms, architectures, and datasets to achieve better accuracy and robustness in recognizing handwritten digits.
 
 These key concepts provide a foundational understanding of the essential steps and considerations when working on recognizing handwritten digits using Scikit-Learn. Specific implementation details may vary based on the dataset and chosen machine learning approach.
 
